@@ -1,0 +1,9 @@
+{
+    "name": "jhona/crud",
+    "autoload": {
+        "psr-4": {
+            "Jhona\\Crud\\": "src/"
+        }
+    },
+    "require": {}
+}
